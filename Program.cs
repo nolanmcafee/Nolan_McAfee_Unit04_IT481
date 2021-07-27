@@ -396,5 +396,6 @@ namespace Nolan_McAfee_Unit04_IT481
         {
             return builder.ToString().Split(Environment.NewLine);
         }
+
     }
 }
